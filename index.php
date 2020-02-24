@@ -49,33 +49,6 @@
                </div>
             </nav>
          </header>
-         <div class="content" style="position: relative;">
-            <div style="width: 30%;  text-align: center;"><img src="img/avtar.jpg" alt="Diya" style="border-radius: 50%; height:300px;"></div>
-            <div style="width: 50%; height: 100%; position: absolute; top: 5px; right: 40px;">
-               <table>
-                  <tr>
-                    <td>Name</td>
-                    <td>Riya</td>
-                  </tr>
-                  <tr>
-                    <td>UserID</td>
-                    <td>18CSE011</td>
-                  </tr>
-                  <tr>
-                    <td>E-mail</td>
-                    <td>abc1301@gmail.com</td>
-                  </tr>
-                  <tr>
-                     <td>Branch</td>
-                     <td>CSE</td>
-                   </tr>
-                   <tr>
-                     <td>Year</td>
-                     <td>2nd</td>
-                   </tr>
-                </table>
-            </div>
-         </div>
       </div>
       
    </body>
