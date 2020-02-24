@@ -55,7 +55,7 @@
                <table>
                   <tr>
                     <td>Name</td>
-                    <td>Diya Jaiswal</td>
+                    <td>Riya</td>
                   </tr>
                   <tr>
                     <td>UserID</td>
@@ -63,7 +63,7 @@
                   </tr>
                   <tr>
                     <td>E-mail</td>
-                    <td>diya1301@gmail.com</td>
+                    <td>abc1301@gmail.com</td>
                   </tr>
                   <tr>
                      <td>Branch</td>
